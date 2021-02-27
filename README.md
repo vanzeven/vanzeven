@@ -4,7 +4,7 @@ I am Faisal Reza. I am an undergraduate student of **Informatics ITS**. I love t
 
 - 🌱 I’m currently learning **Python and nginx**...
 - 📫 You can reach me via:
-    - [📘 Linkedin](https://www.linkedin.com/in/faisal-reza-6563a2a8/)
+    - [📘 Linkedin](https://www.linkedin.com/in/vanzeven/)
     - [🔗 Twitter](https://twitter.com/siebenorbit)
     - [🌐 Website](https://vanzeven.wordpress.com)
 
