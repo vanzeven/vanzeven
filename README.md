@@ -15,4 +15,4 @@ I am Faisal Reza. I am an undergraduate student of **Informatics ITS**. I love t
 </p>
 
 ### Spotify
-[![Spotify](https://novatorem.adryinkcartridge.vercel.app/api/spotify)](https://open.spotify.com/user/farema7)
+[![Spotify](https://novatorem.vanzeven.vercel.app/api/spotify)](https://open.spotify.com/user/farema7)
