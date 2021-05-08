@@ -1,6 +1,6 @@
 ### Hi there, I'm Faisal 👋 Hallo, Ik heet Faisal 👋
 
-I am Faisal Reza. I am an undergraduate student of **Informatics ITS**. I love to learn anything about computer metwork and cybersecurity!
+I am Faisal Reza. I am an undergraduate student of **Informatics ITS**. I love to learn anything about computer network and cybersecurity!
 
 - 🌱 I’m currently learning **Python and nginx**...
 - 📫 You can reach me via:
