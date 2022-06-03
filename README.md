@@ -2,7 +2,7 @@
 
 I am Faisal Reza. I am an undergraduate student of **Informatics ITS**. I love to learn anything about computer network and cybersecurity!
 
-- 🌱 I’m currently learning **DevOps and MERN stack**.
+- 🌱 I’m currently learning **DevOps, Infrastructure Engineering, Flask, and MERN stack**.
 - 📫 You can reach me via:
     - [📘 Linkedin](https://www.linkedin.com/in/vanzeven/)
     - [🔗 Twitter](https://twitter.com/siebenorbit)
