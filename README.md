@@ -6,7 +6,7 @@ I am Faisal Reza. I am an undergraduate student of **Informatics ITS**. I love t
 - 📫 You can reach me via:
     - [📘 Linkedin](https://www.linkedin.com/in/vanzeven/)
     - [🔗 Twitter](https://twitter.com/siebenorbit)
-    - [🌐 Website](https://vanzeven.wordpress.com)
+    - [🌐 Blog](https://vanzeven.wordpress.com)
 
 ## GitHub Stats
 <p>
