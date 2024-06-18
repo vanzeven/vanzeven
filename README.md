@@ -9,7 +9,5 @@ I am Faisal Reza. I am an undergraduate student of **Informatics ITS**. I love t
     - [🌐 Blog](https://vanzeven.wordpress.com)
 
 ## GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanzeven&hide_border=true&hide=html,css&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vanzeven&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elshiraphine&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elshiraphine&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
