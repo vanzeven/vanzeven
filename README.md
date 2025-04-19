@@ -4,7 +4,7 @@ I am Faisal Reza. I am an undergraduate student of **Informatics ITS**. I love t
 
 - 🌱 I’m currently learning **DevOps, Infrastructure Engineering, Android Development with Kotlin, Flask, and MERN stack**.
 - 📫 You can reach me via:
-    - [📘 Linkedin](https://www.linkedin.com/in/vanzeven/)
+    - [📘 Linkedin](https://www.linkedin.com/in/faisalrz/)
     - [🔗 Twitter](https://twitter.com/siebenorbit)
     - [🌐 Blog](https://vanzeven.wordpress.com)
 
