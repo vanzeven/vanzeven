@@ -1,8 +1,8 @@
 ### Hi there, I'm Faisal 👋 Hallo, Ik heet Faisal 👋
 
-I am Faisal Reza. I am an undergraduate student of **Informatics ITS**. I love to learn anything about computer network and cybersecurity!
+Graduated from Sepuluh Nopember Institute of Technology, CS major. I am interested in Linux, Infra, Backend, Cybersecurity (Blue team + Red team), and Devops. I also love to watch educational long-form and learn language in my free time.
 
-- 🌱 I’m currently learning **DevOps, Infrastructure Engineering, Android Development with Kotlin, Flask, and MERN stack**.
+- 🌱 I’m currently learning **DevOps, Go + Fiber, Infrastructure Engineering, Android Development with Kotlin, Flask, and MERN stack**.
 - 📫 You can reach me via:
     - [📘 Linkedin](https://www.linkedin.com/in/faisalrz/)
     - [🔗 Twitter](https://twitter.com/siebenorbit)
