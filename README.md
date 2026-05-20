@@ -11,3 +11,5 @@ Graduated from Sepuluh Nopember Institute of Technology, CS major. I am interest
 ## GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanzeven&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanzeven&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanzeven)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanzeven)](https://github.com/anuraghazra/github-readme-stats)
